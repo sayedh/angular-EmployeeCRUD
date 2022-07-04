@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "firstname": "Tim",
+      "lastname": "Cook",
+      "birthdate": "11-01-1960",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Apple",
+      "jobExperience": 24,
+      "salary": "3M",
+      "profile": "Profile-02.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Satya",
+      "lastname": "Nadella",
+      "birthdate": "08-19-1967",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Microsoft",
+      "jobExperience": 29,
+      "salary": "22M",
+      "profile": "Profile-03.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "Mark",
+      "lastname": "Zuckerburg",
+      "birthdate": "05-14-1984",
+      "gender": "m",
+      "education": "diploma",
+      "company": "Meta",
+      "jobExperience": 17,
+      "salary": "60M",
+      "profile": "Profile-04.jpg",
+      "id": 4
+    },
+    {
+      "firstname": "Sundar",
+      "lastname": "Pichai",
+      "birthdate": "06-10-1972",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Google",
+      "jobExperience": 17,
+      "salary": "13M",
+      "profile": "Profile-05.jpg",
+      "id": 5
+    },
+    {
+      "firstname": "Andy",
+      "lastname": "Jassy",
+      "birthdate": "01-13-1968",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Amazon",
+      "jobExperience": 24,
+      "salary": "4.9M",
+      "profile": "Profile-06.jpg",
+      "id": 6
+    },
+    {
+      "firstname": "Elon",
+      "lastname": "Musk",
+      "birthdate": "1971-06-28",
+      "gender": "m",
+      "education": "graduate",
+      "company": "SpaceX",
+      "jobExperience": 20,
+      "salary": "23B",
+      "profile": "Profile-01.jpg",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
